@@ -1,0 +1,2541 @@
+{
+    "CC": [
+        {
+            "name_course": "Matem\u00e1tica B\u00e1sica",
+            "week_day": {
+                "Ter\u00e7a": {
+                    "8:00-10:00h": {
+                        "Unidade": "UNID I",
+                        "Sala": "1",
+                        "Prof(a)": "Segunda"
+                    }
+                },
+                "Quinta": {
+                    "8:00-10:00h": {
+                        "Unidade": "UNID I",
+                        "Sala": "1",
+                        "Prof(a)": "Segunda"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Fundamentos de Programa\u00e7\u00e3o",
+            "week_day": {
+                "Ter\u00e7a": {
+                    "10:00-12:00h": {
+                        "Unidade": "UNID I",
+                        "Sala": "1",
+                        "Prof(a)": "Segunda"
+                    }
+                },
+                "Quinta": {
+                    "10:00-12:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "\u00c9tica Profissional",
+            "week_day": {
+                "Segunda": {
+                    "13:30-15:30h": {
+                        "Unidade": "UNID I",
+                        "Sala": "1",
+                        "Prof(a)": "Segunda"
+                    }
+                },
+                "Ter\u00e7a": {
+                    "15:30-17:30h": {
+                        "Unidade": "UNID I",
+                        "Sala": "1",
+                        "Prof(a)": "Segunda"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Pr\u00e9-C\u00e1lculo",
+            "week_day": {
+                "Quarta": {
+                    "13:30-15:30h": {
+                        "Unidade": "UNID I",
+                        "Sala": "1",
+                        "Prof(a)": "Segunda"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Introdu\u00e7\u00e3o \u00e0 Ci\u00eancia da Computa\u00e7\u00e3o",
+            "week_day": {
+                "Quarta": {
+                    "15:30-17:30h": {
+                        "Unidade": "UNID I",
+                        "Sala": "1",
+                        "Prof(a)": "Segunda"
+                    }
+                },
+                "Quinta": {
+                    "15:30-17:30h": {
+                        "Unidade": "UNID I",
+                        "Sala": "1",
+                        "Prof(a)": "Segunda"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Matem\u00e1tica Discreta",
+            "week_day": {
+                "Segunda": {
+                    "10:00-12:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Ter\u00e7a": {
+                    "10:00-12:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Arquitetura de Computadores ",
+            "week_day": {
+                "Segunda": {
+                    "13:30-15:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Quarta": {
+                    "13:30-15:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "C\u00e1lculo Diferencial e Integral I ",
+            "week_day": {
+                "Ter\u00e7a": {
+                    "13:30-15:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Quarta": {
+                    "15:30-17:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Estruturas de Dados",
+            "week_day": {
+                "Quinta": {
+                    "13:30-15:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Ter\u00e7a": {
+                    "15:30-17:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Linguagens de Programa\u00e7\u00e3o",
+            "week_day": {
+                "Ter\u00e7a": {
+                    "8:00-10:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Quinta": {
+                    "8:00-10:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Probabilidade e Estat\u00edstica",
+            "week_day": {
+                "Quarta": {
+                    "10:00-12:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Quinta": {
+                    "10:00-12:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "\u00c1lgebra Linear",
+            "week_day": {
+                "Segunda": {
+                    "15:30-17:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Ter\u00e7a": {
+                    "15:30-17:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Algoritmos em Grafos (Prof. Eurinardo)",
+            "week_day": {
+                "Quarta": {
+                    "13:30-15:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Ter\u00e7a": {
+                    "15:30-17:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Programa\u00e7\u00e3o Orientada a Objetos",
+            "week_day": {
+                "Segunda": {
+                    "15:30-17:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Quarta": {
+                    "15:30-17:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Engenharia de Software",
+            "week_day": {
+                "Segunda": {
+                    "8:00-10:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Quarta": {
+                    "8:00-10:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Projeto e An\u00e1lise de Algoritmos",
+            "week_day": {
+                "Quinta": {
+                    "8:00-10:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Quarta": {
+                    "15:30-17:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Fundamentos de Banco de Dados",
+            "week_day": {
+                "Segunda": {
+                    "10:00-12:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Quarta": {
+                    "10:00-12:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Estruturas de Dados Avan\u00e7adas",
+            "week_day": {
+                "Quinta": {
+                    "10:00-12:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Ter\u00e7a": {
+                    "13:30-15:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "L\u00f3gica para Computa\u00e7\u00e3o",
+            "week_day": {
+                "Ter\u00e7a": {
+                    "15:30-17:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Quinta": {
+                    "15:30-17:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Redes de Computadores",
+            "week_day": {
+                "Ter\u00e7a": {
+                    "8:00-10:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Quinta": {
+                    "8:00-10:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Intera\u00e7\u00e3o Humano-Computador",
+            "week_day": {
+                "Quarta": {
+                    "8:00-10:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Ter\u00e7a": {
+                    "13:30-15:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Teoria da Computa\u00e7\u00e3o",
+            "week_day": {
+                "Segunda": {
+                    "10:00-12:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Quarta": {
+                    "10:00-12:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Compiladores",
+            "week_day": {
+                "Ter\u00e7a": {
+                    "10:00-12:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Quinta": {
+                    "10:00-12:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Quarta": {
+                    "10:00-12:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "An\u00e1lise e Projeto de Sistemas ",
+            "week_day": {
+                "Segunda": {
+                    "13:30-15:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Ter\u00e7a": {
+                    "15:30-17:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Computa\u00e7\u00e3o Gr\u00e1fica",
+            "week_day": {
+                "Quarta": {
+                    "13:30-15:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Quinta": {
+                    "13:30-15:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Sistemas Operacionais",
+            "week_day": {
+                "Segunda": {
+                    "15:30-17:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Quarta": {
+                    "15:30-17:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Sistemas Distribu\u00eddos",
+            "week_day": {
+                "Segunda": {
+                    "8:00-10:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Quarta": {
+                    "8:00-10:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Linguagens Formais e Aut\u00f4matos ",
+            "week_day": {
+                "Ter\u00e7a": {
+                    "8:00-10:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Quinta": {
+                    "8:00-10:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Desenvolvimento de Software para Web ",
+            "week_day": {
+                "Segunda": {
+                    "10:00-12:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Quarta": {
+                    "10:00-12:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Intelig\u00eancia Artificial ",
+            "week_day": {
+                "Ter\u00e7a": {
+                    "10:00-12:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Quinta": {
+                    "10:00-12:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Projeto de Pesquisa Cient\u00edfica e Tecnol\u00f3gica",
+            "week_day": {
+                "Ter\u00e7a": {
+                    "13:30-15:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Empreendedorismo",
+            "week_day": {
+                "Quarta": {
+                    "13:30-15:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Segunda": {
+                    "15:30-17:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Matem\u00e1tica ",
+            "week_day": {
+                "Quarta": {
+                    "15:30-17:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Quinta": {
+                    "15:30-17:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Laborat\u00f3rio de Programa\u00e7\u00e3o",
+            "week_day": {
+                "Segunda": {
+                    "8:00-10:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Quarta": {
+                    "8:00-10:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        }
+    ],
+    "ES": [
+        {
+            "name_course": "Manuten\u00e7\u00e3o de Software ",
+            "week_day": {
+                "Quarta": {
+                    "8:00-10:00h": {
+                        "Unidade": "UNID I",
+                        "Sala": "1",
+                        "Prof(a)": "Segunda"
+                    }
+                },
+                "Ter\u00e7a": {
+                    "13:30-15:30h": {
+                        "Unidade": "UNID I",
+                        "Sala": "1",
+                        "Prof(a)": "Segunda"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Fundamentos de Programa\u00e7\u00e3o",
+            "week_day": {
+                "Ter\u00e7a": {
+                    "8:00-10:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Quinta": {
+                    "8:00-10:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "\u00c9tica Profissional",
+            "week_day": {
+                "Quarta": {
+                    "8:00-10:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Ter\u00e7a": {
+                    "10:00-12:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Matem\u00e1tica B\u00e1sica",
+            "week_day": {
+                "Segunda": {
+                    "10:00-12:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Quarta": {
+                    "10:00-12:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Experimenta\u00e7\u00e3o em Engenharia de Software",
+            "week_day": {
+                "Ter\u00e7a": {
+                    "13:30-15:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Quarta": {
+                    "13:30-15:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Introdu\u00e7\u00e3o \u00e0 Engenharia de Software",
+            "week_day": {
+                "Segunda": {
+                    "15:30-17:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Ter\u00e7a": {
+                    "15:30-17:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Arquitetura de Computadores ",
+            "week_day": {
+                "Segunda": {
+                    "8:00-10:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Quarta": {
+                    "8:00-10:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Introdu\u00e7\u00e3o a Processos e Requisitos de Software",
+            "week_day": {
+                "Segunda": {
+                    "10:00-12:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Quarta": {
+                    "10:00-12:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Estruturas de Dados",
+            "week_day": {
+                "Ter\u00e7a": {
+                    "13:30-15:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Quarta": {
+                    "13:30-15:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Matem\u00e1tica Discreta ",
+            "week_day": {
+                "Segunda": {
+                    "15:30-17:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Ter\u00e7a": {
+                    "15:30-17:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Probabilidade e Estat\u00edstica",
+            "week_day": {
+                "Quarta": {
+                    "15:30-17:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Quinta": {
+                    "15:30-17:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Algoritmos em Grafos (Prof. Pablo)",
+            "week_day": {
+                "Segunda": {
+                    "10:00-12:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Ter\u00e7a": {
+                    "10:00-12:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Projeto Detalhado de Software ",
+            "week_day": {
+                "Quarta": {
+                    "13:30-15:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Quinta": {
+                    "13:30-15:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Processos de Software",
+            "week_day": {
+                "Quarta": {
+                    "8:00-10:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Ter\u00e7a": {
+                    "10:00-12:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Intera\u00e7\u00e3o Humano-Computador",
+            "week_day": {
+                "Segunda": {
+                    "13:30-15:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Ter\u00e7a": {
+                    "15:30-17:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "L\u00f3gica para Computa\u00e7\u00e3o",
+            "week_day": {
+                "Ter\u00e7a": {
+                    "13:30-15:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Quinta": {
+                    "13:30-15:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Verifica\u00e7\u00e3o e Valida\u00e7\u00e3o ",
+            "week_day": {
+                "Ter\u00e7a": {
+                    "8:00-10:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Quinta": {
+                    "8:00-10:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Ger\u00eancia de Projetos de Software",
+            "week_day": {
+                "Ter\u00e7a": {
+                    "10:00-12:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Quinta": {
+                    "10:00-12:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Requisitos de Software",
+            "week_day": {
+                "Quarta": {
+                    "10:00-12:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Segunda": {
+                    "13:30-15:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Programa\u00e7\u00e3o Orientada a Objetos",
+            "week_day": {
+                "Ter\u00e7a": {
+                    "13:30-15:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Quarta": {
+                    "13:30-15:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Qualidade de Software",
+            "week_day": {
+                "Quarta": {
+                    "15:30-17:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Quinta": {
+                    "15:30-17:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Arquitetura de Software",
+            "week_day": {
+                "Quinta": {
+                    "13:30-15:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Ter\u00e7a": {
+                    "15:30-17:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Laborat\u00f3rio de Programa\u00e7\u00e3o ",
+            "week_day": {
+                "Ter\u00e7a": {
+                    "10:00-12:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Quinta": {
+                    "10:00-12:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        }
+    ],
+    "EC": [
+        {
+            "name_course": "Probabilidade e Estat\u00edstica",
+            "week_day": {
+                "Segunda": {
+                    "8:00-10:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Revis\u00e3o de F\u00edsica",
+            "week_day": {
+                "Ter\u00e7a": {
+                    "8:00-10:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "\u00c1lgebra Linear",
+            "week_day": {
+                "Quarta": {
+                    "8:00-10:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "F\u00edsica Fundamental",
+            "week_day": {
+                "Segunda": {
+                    "10:00-12:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Quarta": {
+                    "10:00-12:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "F\u00edsica Experimental para Engenharia",
+            "week_day": {
+                "Quinta": {
+                    "10:00-12:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Introdu\u00e7\u00e3o \u00e0 Engenharia",
+            "week_day": {
+                "Segunda": {
+                    "13:30-15:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Qu\u00edmica Geral ",
+            "week_day": {
+                "Quarta": {
+                    "13:30-15:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Qu\u00edmica Geral \u00a0- Lab",
+            "week_day": {
+                "Quinta": {
+                    "13:30-15:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Revis\u00e3o de Matem\u00e1tica",
+            "week_day": {
+                "Segunda": {
+                    "15:30-17:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "C\u00e1lculo Fundamental",
+            "week_day": {
+                "Ter\u00e7a": {
+                    "15:30-17:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Quinta": {
+                    "15:30-17:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Qu\u00edmica Geral - Lab",
+            "week_day": {
+                "Quarta": {
+                    "15:30-17:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Materiais de Constru\u00e7\u00e3o Civil I",
+            "week_day": {
+                "Segunda": {
+                    "8:00-10:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Quarta": {
+                    "8:00-10:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Matem\u00e1tica Aplicada",
+            "week_day": {
+                "Ter\u00e7a": {
+                    "8:00-10:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Quinta": {
+                    "8:00-10:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "C\u00e1lculo Vetorial Aplicado",
+            "week_day": {
+                "Ter\u00e7a": {
+                    "10:00-12:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Quinta": {
+                    "10:00-12:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Geologia Aplicada \u00e0 Engenharia ",
+            "week_day": {
+                "Ter\u00e7a": {
+                    "13:30-15:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Quinta": {
+                    "13:30-15:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "C\u00e1lculo Num\u00e9rico",
+            "week_day": {
+                "Segunda": {
+                    "15:30-17:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Quarta": {
+                    "15:30-17:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Eletromagnetismo",
+            "week_day": {
+                "Ter\u00e7a": {
+                    "15:30-17:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Quinta": {
+                    "15:30-17:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Projeto e Constru\u00e7\u00e3o de Edif\u00edcios I",
+            "week_day": {
+                "Ter\u00e7a": {
+                    "8:00-10:00h": {
+                        "Unidade": "UNID I",
+                        "Sala": "AUX I",
+                        "Prof(a)": "Segunda"
+                    }
+                },
+                "Quinta": {
+                    "8:00-10:00h": {
+                        "Unidade": "UNID I",
+                        "Sala": "AUX I",
+                        "Prof(a)": "Segunda"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Geoprocessamento",
+            "week_day": {
+                "Quarta": {
+                    "8:00-10:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Fundamentos da Economia e Administra\u00e7\u00e3o",
+            "week_day": {
+                "Ter\u00e7a": {
+                    "10:00-12:00h": {
+                        "Unidade": "UNID I",
+                        "Sala": "AUX I",
+                        "Prof(a)": "Segunda"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Fundamentos da Economia e ",
+            "week_day": {
+                "Quarta": {
+                    "10:00-12:00h": {
+                        "Unidade": "UNID I",
+                        "Sala": "AUX I",
+                        "Prof(a)": "Segunda"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Mec\u00e2nica dos Fluidos",
+            "week_day": {
+                "Segunda": {
+                    "13:30-15:30h": {
+                        "Unidade": "UNID I",
+                        "Sala": "AUX I",
+                        "Prof(a)": "Segunda"
+                    }
+                },
+                "Quarta": {
+                    "13:30-15:30h": {
+                        "Unidade": "UNID I",
+                        "Sala": "AUX I",
+                        "Prof(a)": "Segunda"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Mec\u00e2nica dos Solos I",
+            "week_day": {
+                "Ter\u00e7a": {
+                    "13:30-15:30h": {
+                        "Unidade": "UNID I",
+                        "Sala": "AUX I",
+                        "Prof(a)": "Segunda"
+                    }
+                },
+                "Quinta": {
+                    "13:30-15:30h": {
+                        "Unidade": "UNID I",
+                        "Sala": "AUX I",
+                        "Prof(a)": "Segunda"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "M\u00eacanica I",
+            "week_day": {
+                "Quarta": {
+                    "13:30-15:30h": {
+                        "Unidade": "UNID I",
+                        "Sala": "AUX II",
+                        "Prof(a)": "Segunda"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Resist\u00eancia dos ",
+            "week_day": {
+                "Ter\u00e7a": {
+                    "15:30-17:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Quinta": {
+                    "15:30-17:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Projeto e Constru\u00e7\u00e3o da Infra-Estrutura Vi\u00e1ria",
+            "week_day": {
+                "Segunda": {
+                    "8:00-10:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Gerenciamento na Constru\u00e7\u00e3o Civil I",
+            "week_day": {
+                "Quarta": {
+                    "8:00-10:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Saneamento I",
+            "week_day": {
+                "Sexta": {
+                    "8:00-10:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Hidrologia",
+            "week_day": {
+                "Segunda": {
+                    "10:00-12:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Ter\u00e7a": {
+                    "10:00-12:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Estruturas de Concreto I",
+            "week_day": {
+                "Ter\u00e7a": {
+                    "13:30-15:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Higiene Industrial e Seguran\u00e7a no Trabalho",
+            "week_day": {
+                "Quarta": {
+                    "13:30-15:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "An\u00e1lise de Estruturas I",
+            "week_day": {
+                "Quinta": {
+                    "13:30-15:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Pontes I",
+            "week_day": {
+                "Segunda": {
+                    "8:00-10:00h": {
+                        "Unidade": "UNID II",
+                        "Sala": "AUX II",
+                        "Prof(a)": "Segunda"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Projeto Estrutural de Edif\u00edcios de Concreto \u00a0(Prof. Jerfson)",
+            "week_day": {
+                "Quarta": {
+                    "8:00-10:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Instala\u00e7\u00f5es El\u00e9tricas Prediais ",
+            "week_day": {
+                "Quinta": {
+                    "8:00-10:00h": {
+                        "Unidade": "UNID II",
+                        "Sala": "AUX II",
+                        "Prof(a)": "Segunda"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Barragens ",
+            "week_day": {
+                "Sexta": {
+                    "8:00-10:00h": {
+                        "Unidade": "UNID II",
+                        "Sala": "AUX II",
+                        "Prof(a)": "Segunda"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Engenharia Econ\u00f4mica",
+            "week_day": {
+                "Quarta": {
+                    "13:30-15:30h": {
+                        "Unidade": "UNID II",
+                        "Sala": "AUX II",
+                        "Prof(a)": "Segunda"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Patologia e Recupera\u00e7\u00e3o de Estruturas de Concreto (Prof. Esequiel)",
+            "week_day": {
+                "Segunda": {
+                    "15:30-17:30h": {
+                        "Unidade": "UNID II",
+                        "Sala": "AUX II",
+                        "Prof(a)": "Segunda"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "\u00c9tica e Legisla\u00e7\u00e3o ",
+            "week_day": {
+                "Quarta": {
+                    "15:30-17:30h": {
+                        "Unidade": "UNID II",
+                        "Sala": "AUX II",
+                        "Prof(a)": "Segunda"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Desenho para Engenharia",
+            "week_day": {
+                "Ter\u00e7a": {
+                    "13:30-15:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Instala\u00e7\u00f5es Hidr\u00e1ulicas e Sanit\u00e1rias Prediais ",
+            "week_day": {
+                "Ter\u00e7a": {
+                    "8:00-10:00h": {
+                        "Unidade": "UNID II",
+                        "Sala": "ATIVAS",
+                        "Prof(a)": "Segunda"
+                    }
+                }
+            }
+        }
+    ],
+    "EP": [
+        {
+            "name_course": "Qu\u00edmica Geral",
+            "week_day": {
+                "Ter\u00e7a": {
+                    "8:00-10:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Qu\u00edmica Geral - Lab",
+            "week_day": {
+                "Quinta": {
+                    "8:00-10:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Ter\u00e7a": {
+                    "15:30-17:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Probabilidade e Estat\u00edstica",
+            "week_day": {
+                "Segunda": {
+                    "10:00-12:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Revis\u00e3o de F\u00edsica",
+            "week_day": {
+                "Ter\u00e7a": {
+                    "10:00-12:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Introdu\u00e7\u00e3o \u00e0 Engenharia de Produ\u00e7\u00e3o",
+            "week_day": {
+                "Quinta": {
+                    "10:00-12:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "F\u00edsica Fundamental",
+            "week_day": {
+                "Segunda": {
+                    "13:30-15:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Quarta": {
+                    "13:30-15:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Revis\u00e3o de Matem\u00e1tica",
+            "week_day": {
+                "Ter\u00e7a": {
+                    "13:30-15:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "\u00c1lgebra Linear",
+            "week_day": {
+                "Quinta": {
+                    "13:30-15:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "C\u00e1lculo Fundamental",
+            "week_day": {
+                "Segunda": {
+                    "15:30-17:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Quarta": {
+                    "15:30-17:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "F\u00edsica Experimental \u00a0para Engenharia",
+            "week_day": {
+                "Quinta": {
+                    "15:30-17:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Fundamentos da Economia e da Administra\u00e7\u00e3o",
+            "week_day": {
+                "Segunda": {
+                    "8:00-10:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Quarta": {
+                    "8:00-10:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Mec\u00e2nica I",
+            "week_day": {
+                "Sexta": {
+                    "8:00-10:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "C\u00e1lculo Vetorial Aplicado",
+            "week_day": {
+                "Segunda": {
+                    "10:00-12:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Quarta": {
+                    "10:00-12:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Eletromagnetismo",
+            "week_day": {
+                "Ter\u00e7a": {
+                    "10:00-12:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Quinta": {
+                    "10:00-12:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Engenharia Econ\u00f4mica",
+            "week_day": {
+                "Segunda": {
+                    "13:30-15:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Ci\u00eancia dos Materiais",
+            "week_day": {
+                "Ter\u00e7a": {
+                    "13:30-15:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Quinta": {
+                    "13:30-15:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Mecanismos ",
+            "week_day": {
+                "Segunda": {
+                    "8:00-10:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Quarta": {
+                    "8:00-10:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "M\u00e1quinas de Fluxo",
+            "week_day": {
+                "Ter\u00e7a": {
+                    "8:00-10:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Quinta": {
+                    "8:00-10:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Gest\u00e3o de Qualidade",
+            "week_day": {
+                "Segunda": {
+                    "10:00-12:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Quarta": {
+                    "10:00-12:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Gest\u00e3o de Custos",
+            "week_day": {
+                "Segunda": {
+                    "13:30-15:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Quarta": {
+                    "13:30-15:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Introdu\u00e7\u00e3o \u00e0 Pesquisa Operacional",
+            "week_day": {
+                "Ter\u00e7a": {
+                    "13:30-15:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Quinta": {
+                    "13:30-15:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Administra\u00e7\u00e3o",
+            "week_day": {
+                "Segunda": {
+                    "15:30-17:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Ger\u00eancia de Manuten\u00e7\u00e3o",
+            "week_day": {
+                "Segunda": {
+                    "8:00-10:00h": {
+                        "Unidade": "UNID II",
+                        "Sala": "AUX III",
+                        "Prof(a)": "Segunda"
+                    }
+                },
+                "Quarta": {
+                    "8:00-10:00h": {
+                        "Unidade": "UNID II",
+                        "Sala": "AUX III",
+                        "Prof(a)": "Segunda"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Log\u00edstica Empresarial II",
+            "week_day": {
+                "Ter\u00e7a": {
+                    "8:00-10:00h": {
+                        "Unidade": "UNID II",
+                        "Sala": "AUX III",
+                        "Prof(a)": "Segunda"
+                    }
+                },
+                "Quinta": {
+                    "8:00-10:00h": {
+                        "Unidade": "UNID II",
+                        "Sala": "AUX III",
+                        "Prof(a)": "Segunda"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Planejamento e Controle da Produ\u00e7\u00e3o II",
+            "week_day": {
+                "Ter\u00e7a": {
+                    "10:00-12:00h": {
+                        "Unidade": "UNID II",
+                        "Sala": "AUX III",
+                        "Prof(a)": "Segunda"
+                    }
+                },
+                "Quinta": {
+                    "10:00-12:00h": {
+                        "Unidade": "UNID II",
+                        "Sala": "AUX III",
+                        "Prof(a)": "Segunda"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "M\u00e1quinas T\u00e9rmicas",
+            "week_day": {
+                "Segunda": {
+                    "13:30-15:30h": {
+                        "Unidade": "UNID II",
+                        "Sala": "AUX III",
+                        "Prof(a)": "Segunda"
+                    }
+                },
+                "Quarta": {
+                    "13:30-15:30h": {
+                        "Unidade": "UNID II",
+                        "Sala": "AUX III",
+                        "Prof(a)": "Segunda"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "\u00c9tica e Legisla\u00e7\u00e3o ",
+            "week_day": {
+                "Quinta": {
+                    "13:30-15:30h": {
+                        "Unidade": "UNID II",
+                        "Sala": "AUX III",
+                        "Prof(a)": "Segunda"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Sistema de Informa\u00e7\u00e3o Gerencial",
+            "week_day": {
+                "Ter\u00e7a": {
+                    "15:30-17:30h": {
+                        "Unidade": "UNID II",
+                        "Sala": "AUX III",
+                        "Prof(a)": "Segunda"
+                    }
+                },
+                "Quinta": {
+                    "15:30-17:30h": {
+                        "Unidade": "UNID II",
+                        "Sala": "AUX III",
+                        "Prof(a)": "Segunda"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Desenho para Engenharia - T1",
+            "week_day": {
+                "Quarta": {
+                    "10:00-12:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Desenho para Engenharia - T2",
+            "week_day": {
+                "Sexta": {
+                    "10:00-12:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        }
+    ],
+    "EM": [
+        {
+            "name_course": "F\u00edsica Fundamental",
+            "week_day": {
+                "Segunda": {
+                    "8:00-10:00h": {
+                        "Unidade": "UNID I",
+                        "Sala": "5",
+                        "Prof(a)": "Segunda"
+                    }
+                },
+                "Quarta": {
+                    "8:00-10:00h": {
+                        "Unidade": "UNID I",
+                        "Sala": "5",
+                        "Prof(a)": "Segunda"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "C\u00e1lculo Fundamental",
+            "week_day": {
+                "Ter\u00e7a": {
+                    "8:00-10:00h": {
+                        "Unidade": "UNID I",
+                        "Sala": "5",
+                        "Prof(a)": "Segunda"
+                    }
+                },
+                "Quinta": {
+                    "8:00-10:00h": {
+                        "Unidade": "UNID I",
+                        "Sala": "5",
+                        "Prof(a)": "Segunda"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Higiene Industrial e Seguran\u00e7a no Trabalho",
+            "week_day": {
+                "Sexta": {
+                    "8:00-10:00h": {
+                        "Unidade": "UNID I",
+                        "Sala": "5",
+                        "Prof(a)": "Segunda"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Revis\u00e3o de Matem\u00e1tica ",
+            "week_day": {
+                "Segunda": {
+                    "10:00-12:00h": {
+                        "Unidade": "UNID I",
+                        "Sala": "5",
+                        "Prof(a)": "Segunda"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Qu\u00edmica Geral",
+            "week_day": {
+                "Ter\u00e7a": {
+                    "10:00-12:00h": {
+                        "Unidade": "UNID I",
+                        "Sala": "5",
+                        "Prof(a)": "Segunda"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Revis\u00e3o de F\u00edsica ",
+            "week_day": {
+                "Quarta": {
+                    "10:00-12:00h": {
+                        "Unidade": "UNID I",
+                        "Sala": "5",
+                        "Prof(a)": "Segunda"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Qu\u00edmica Geral \u00a0- Lab",
+            "week_day": {
+                "Quinta": {
+                    "10:00-12:00h": {
+                        "Unidade": "UNID I",
+                        "Sala": "5",
+                        "Prof(a)": "Segunda"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Probabilidade e Estat\u00edstica",
+            "week_day": {
+                "Segunda": {
+                    "15:30-17:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Introdu\u00e7\u00e3o \u00e0 Engenharia Mec\u00e2nica",
+            "week_day": {
+                "Quarta": {
+                    "15:30-17:30h": {
+                        "Unidade": "UNID I",
+                        "Sala": "5",
+                        "Prof(a)": "Segunda"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Ci\u00eancia dos Materiais",
+            "week_day": {
+                "Segunda": {
+                    "15:30-17:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Quarta": {
+                    "15:30-17:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Mec\u00e2nica dos Fluidos",
+            "week_day": {
+                "Ter\u00e7a": {
+                    "8:00-10:00h": {
+                        "Unidade": "UNID I",
+                        "Sala": "AUX II",
+                        "Prof(a)": "Segunda"
+                    }
+                },
+                "Quinta": {
+                    "8:00-10:00h": {
+                        "Unidade": "UNID I",
+                        "Sala": "AUX II",
+                        "Prof(a)": "Segunda"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Transmiss\u00e3o de Calor",
+            "week_day": {
+                "Segunda": {
+                    "10:00-12:00h": {
+                        "Unidade": "UNID I",
+                        "Sala": "AUX II",
+                        "Prof(a)": "Segunda"
+                    }
+                },
+                "Quarta": {
+                    "10:00-12:00h": {
+                        "Unidade": "UNID I",
+                        "Sala": "AUX II",
+                        "Prof(a)": "Segunda"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Materiais Met\u00e1licos para Engenharia",
+            "week_day": {
+                "Ter\u00e7a": {
+                    "10:00-12:00h": {
+                        "Unidade": "UNID I",
+                        "Sala": "AUX II",
+                        "Prof(a)": "Segunda"
+                    }
+                },
+                "Quinta": {
+                    "10:00-12:00h": {
+                        "Unidade": "UNID I",
+                        "Sala": "AUX II",
+                        "Prof(a)": "Segunda"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Fundamentos da Economia e da Administra\u00e7\u00e3o",
+            "week_day": {
+                "Ter\u00e7a": {
+                    "13:30-15:30h": {
+                        "Unidade": "UNID I",
+                        "Sala": "AUX II",
+                        "Prof(a)": "Segunda"
+                    }
+                },
+                "Quinta": {
+                    "13:30-15:30h": {
+                        "Unidade": "UNID I",
+                        "Sala": "AUX II",
+                        "Prof(a)": "Segunda"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "\u00c9tica e Legisla\u00e7\u00e3o ",
+            "week_day": {
+                "Quinta": {
+                    "8:00-10:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Elementos de M\u00e1quinas I",
+            "week_day": {
+                "Ter\u00e7a": {
+                    "10:00-12:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Quinta": {
+                    "10:00-12:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "T\u00f3picos Especiais em Engenharia Mec\u00e2nica I",
+            "week_day": {
+                "Quarta": {
+                    "10:00-12:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Refrigera\u00e7\u00e3o e Condicionamento do Ar",
+            "week_day": {
+                "Segunda": {
+                    "13:30-15:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Quarta": {
+                    "13:30-15:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Din\u00e2mica das M\u00e1quinas",
+            "week_day": {
+                "Ter\u00e7a": {
+                    "13:30-15:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Quinta": {
+                    "13:30-15:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Processos de Conforma\u00e7\u00e3o Pl\u00e1stica",
+            "week_day": {
+                "Segunda": {
+                    "15:30-17:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Quarta": {
+                    "15:30-17:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Elementos Finitos para Engenharia Mec\u00e2nica",
+            "week_day": {
+                "Ter\u00e7a": {
+                    "15:30-17:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Desenho para Engenharia - T2 ",
+            "week_day": {
+                "Sexta": {
+                    "8:00-10:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Desenho para Engenharia - T2",
+            "week_day": {
+                "Sexta": {
+                    "8:00-10:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Quinta": {
+                    "10:00-12:00h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Desenho de M\u00e1quinas -",
+            "week_day": {
+                "Segunda": {
+                    "15:30-17:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                },
+                "Quarta": {
+                    "15:30-17:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Desenho para Engenharia - T1",
+            "week_day": {
+                "Quinta": {
+                    "15:30-17:30h": {
+                        "Unidade": "8:00-10:00h",
+                        "Sala": "Segunda",
+                        "Prof(a)": "Ter\u00e7a"
+                    }
+                }
+            }
+        }
+    ]
+}
