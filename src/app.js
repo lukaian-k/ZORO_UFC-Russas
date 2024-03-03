@@ -42,6 +42,8 @@ class Renderer {
         this.clearDisplay(['#courses', '#week', '#schedule', '#info'])
         const container = document.querySelector('#courses')
 
+        courses.sort((x, y) => x.name_course.localeCompare(y.name_course))
+
         courses.forEach(course => {
             const button = this.createButton(course.name_course, () => this.renderWeek(course.week_day))
             container.appendChild(button)
@@ -99,14 +101,14 @@ class Renderer {
 }
 
 fetch(DATA_JSON_URL)
-    .then((response) => {
+    .then(response => {
         if (!response.ok) {
             throw new Error('Error loading JSON file')
         }
         return response.json()
     })
 
-    .then((data) => {
+    .then(data => {
         console.log(data)
 
         const elementCreator = new ElementCreator('div', 'main')
@@ -115,6 +117,6 @@ fetch(DATA_JSON_URL)
         Renderer.renderButtons(data)
     })
 
-    .catch((error) => {
+    .catch(error => {
         console.error('Error:', error)
     })

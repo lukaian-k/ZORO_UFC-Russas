@@ -1,7 +1,7 @@
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #f8f8f8;
-    color: #333;
+    background-color: var(--color-bg);
+    color: var(--color-text-black);
 }
 
 main {
@@ -10,9 +10,72 @@ main {
     padding: 20px;
 }
 
-#buttons-course {
-    background-color: #3498db;
-    color: #fff;
-    padding: 10px;
+button {
+    cursor: pointer;
+
     text-align: center;
+    text-decoration: none;
+
+    border-radius: 5px;
+    border: 2px solid var(--color-text-black);
+
+    color: var(--color-text-black);
+    background-color: var(--color-text-white);
+}
+
+#buttons-course {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-auto-rows: 30px;
+    grid-gap: 5px 8px;
+    margin-bottom: 10px;
+}
+
+#buttons-course button {
+    font-size: 16px;
+    font-weight: bold;
+    color: var(--color-text-white);
+
+    border: 2px solid var(--color-main);
+    background-color: var(--color-main);
+    transition: background-color 0.3s, color 0.3s;
+}
+
+#buttons-course button:hover {
+    background-color: var(--color-text-white);
+    color: var(--color-main);
+}
+
+#courses,
+#week,
+#schedule {
+    display: grid;
+    grid-auto-rows: 30px;
+    grid-gap: 5px 8px;
+}
+
+#courses button:hover,
+#week button:hover,
+#schedule button:hover {
+    background-color: var(--color-text-black);
+    color: var(--color-text-white);
+}
+
+#info {
+    display: grid;
+    grid-template-columns: repeat(2, .3fr);
+    grid-auto-rows: 30px;
+    grid-gap: 5px 8px;
+    margin-top: 20px;
+}
+
+#info h3 {
+    color: var(--color-main);
+    margin-bottom: 10px;
+}
+
+#info p {
+    color: var(--color-text-black);
+    line-height: 1.6;
+    margin-bottom: 15px;
 }
