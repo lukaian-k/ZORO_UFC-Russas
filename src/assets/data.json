@@ -7,14 +7,14 @@
                     "8:00-10:00h": {
                         "Unidade": "UNID I",
                         "Sala": "1",
-                        "Prof(a)": "Segunda"
+                        "Prof(a)": "Prof. Antônio Márcio"
                     }
                 },
                 "Quinta": {
                     "8:00-10:00h": {
                         "Unidade": "UNID I",
                         "Sala": "1",
-                        "Prof(a)": "Segunda"
+                        "Prof(a)": "Prof. Antônio Márcio"
                     }
                 }
             }
@@ -26,14 +26,14 @@
                     "10:00-12:00h": {
                         "Unidade": "UNID I",
                         "Sala": "1",
-                        "Prof(a)": "Segunda"
+                        "Prof(a)": "Prof. Markos"
                     }
                 },
                 "Quinta": {
                     "10:00-12:00h": {
-                        "Unidade": "8:00-10:00h",
-                        "Sala": "Segunda",
-                        "Prof(a)": "Ter\u00e7a"
+                        "Unidade": "UNID I",
+                        "Sala": "1",
+                        "Prof(a)": "Prof. Markos"
                     }
                 }
             }
@@ -45,14 +45,14 @@
                     "13:30-15:30h": {
                         "Unidade": "UNID I",
                         "Sala": "1",
-                        "Prof(a)": "Segunda"
+                        "Prof(a)": "Profa. Josemeire"
                     }
                 },
                 "Ter\u00e7a": {
                     "15:30-17:30h": {
                         "Unidade": "UNID I",
                         "Sala": "1",
-                        "Prof(a)": "Segunda"
+                        "Prof(a)": "Profa. Josemeire"
                     }
                 }
             }
@@ -64,7 +64,7 @@
                     "13:30-15:30h": {
                         "Unidade": "UNID I",
                         "Sala": "1",
-                        "Prof(a)": "Segunda"
+                        "Prof(a)": "Prof. Neves"
                     }
                 }
             }
@@ -76,14 +76,14 @@
                     "15:30-17:30h": {
                         "Unidade": "UNID I",
                         "Sala": "1",
-                        "Prof(a)": "Segunda"
+                        "Prof(a)": "Prof. Rafael Ivo"
                     }
                 },
                 "Quinta": {
                     "15:30-17:30h": {
                         "Unidade": "UNID I",
                         "Sala": "1",
-                        "Prof(a)": "Segunda"
+                        "Prof(a)": "Prof. Rafael Ivo"
                     }
                 }
             }
@@ -93,35 +93,35 @@
             "week_day": {
                 "Segunda": {
                     "10:00-12:00h": {
-                        "Unidade": "8:00-10:00h",
-                        "Sala": "Segunda",
-                        "Prof(a)": "Ter\u00e7a"
+                        "Unidade": "UNID I",
+                        "Sala": "6",
+                        "Prof(a)": "Prof. Gleison"
                     }
                 },
                 "Ter\u00e7a": {
                     "10:00-12:00h": {
-                        "Unidade": "8:00-10:00h",
-                        "Sala": "Segunda",
-                        "Prof(a)": "Ter\u00e7a"
+                        "Unidade": "UNID I",
+                        "Sala": "6",
+                        "Prof(a)": "Prof. Gleison"
                     }
                 }
             }
         },
         {
-            "name_course": "Arquitetura de Computadores ",
+            "name_course": "Arquitetura de Computadores",
             "week_day": {
                 "Segunda": {
                     "13:30-15:30h": {
-                        "Unidade": "8:00-10:00h",
-                        "Sala": "Segunda",
-                        "Prof(a)": "Ter\u00e7a"
+                        "Unidade": "UNID I",
+                        "Sala": "6",
+                        "Prof(a)": "Prof. Reuber"
                     }
                 },
                 "Quarta": {
                     "13:30-15:30h": {
-                        "Unidade": "8:00-10:00h",
-                        "Sala": "Segunda",
-                        "Prof(a)": "Ter\u00e7a"
+                        "Unidade": "UNID I",
+                        "Sala": "6",
+                        "Prof(a)": "Prof. Reuber"
                     }
                 }
             }
@@ -131,16 +131,16 @@
             "week_day": {
                 "Ter\u00e7a": {
                     "13:30-15:30h": {
-                        "Unidade": "8:00-10:00h",
-                        "Sala": "Segunda",
-                        "Prof(a)": "Ter\u00e7a"
+                        "Unidade": "UNID I",
+                        "Sala": "6",
+                        "Prof(a)": "Prof. Neves"
                     }
                 },
                 "Quarta": {
                     "15:30-17:30h": {
-                        "Unidade": "8:00-10:00h",
-                        "Sala": "Segunda",
-                        "Prof(a)": "Ter\u00e7a"
+                        "Unidade": "UNID I",
+                        "Sala": "6",
+                        "Prof(a)": "Prof. Neves"
                     }
                 }
             }
@@ -150,16 +150,16 @@
             "week_day": {
                 "Quinta": {
                     "13:30-15:30h": {
-                        "Unidade": "8:00-10:00h",
-                        "Sala": "Segunda",
-                        "Prof(a)": "Ter\u00e7a"
+                        "Unidade": "UNID I",
+                        "Sala": "6",
+                        "Prof(a)": "Profa. Tatiane"
                     }
                 },
                 "Ter\u00e7a": {
                     "15:30-17:30h": {
-                        "Unidade": "8:00-10:00h",
-                        "Sala": "Segunda",
-                        "Prof(a)": "Ter\u00e7a"
+                        "Unidade": "UNID I",
+                        "Sala": "6",
+                        "Prof(a)": "Profa. Tatiane"
                     }
                 }
             }
@@ -169,16 +169,16 @@
             "week_day": {
                 "Ter\u00e7a": {
                     "8:00-10:00h": {
-                        "Unidade": "8:00-10:00h",
-                        "Sala": "Segunda",
-                        "Prof(a)": "Ter\u00e7a"
+                        "Unidade": "UNID I",
+                        "Sala": "10",
+                        "Prof(a)": "Profa. Elanne"
                     }
                 },
                 "Quinta": {
                     "8:00-10:00h": {
-                        "Unidade": "8:00-10:00h",
-                        "Sala": "Segunda",
-                        "Prof(a)": "Ter\u00e7a"
+                        "Unidade": "UNID I",
+                        "Sala": "10",
+                        "Prof(a)": "Profa. Elanne"
                     }
                 }
             }
@@ -188,16 +188,16 @@
             "week_day": {
                 "Quarta": {
                     "10:00-12:00h": {
-                        "Unidade": "8:00-10:00h",
-                        "Sala": "Segunda",
-                        "Prof(a)": "Ter\u00e7a"
+                        "Unidade": "UNID I",
+                        "Sala": "10",
+                        "Prof(a)": "Profa. Rosineide"
                     }
                 },
                 "Quinta": {
                     "10:00-12:00h": {
-                        "Unidade": "8:00-10:00h",
-                        "Sala": "Segunda",
-                        "Prof(a)": "Ter\u00e7a"
+                        "Unidade": "UNID I",
+                        "Sala": "10",
+                        "Prof(a)": "Profa. Rosineide"
                     }
                 }
             }
@@ -207,35 +207,35 @@
             "week_day": {
                 "Segunda": {
                     "15:30-17:30h": {
-                        "Unidade": "8:00-10:00h",
-                        "Sala": "Segunda",
-                        "Prof(a)": "Ter\u00e7a"
+                        "Unidade": "UNID II",
+                        "Sala": "7",
+                        "Prof(a)": "Prof. Anderson Feitoza"
                     }
                 },
                 "Ter\u00e7a": {
                     "15:30-17:30h": {
-                        "Unidade": "8:00-10:00h",
-                        "Sala": "Segunda",
-                        "Prof(a)": "Ter\u00e7a"
+                        "Unidade": "UNID II",
+                        "Sala": "7",
+                        "Prof(a)": "Prof. Anderson Feitoza"
                     }
                 }
             }
         },
         {
-            "name_course": "Algoritmos em Grafos (Prof. Eurinardo)",
+            "name_course": "Algoritmos em Grafos",
             "week_day": {
                 "Quarta": {
                     "13:30-15:30h": {
-                        "Unidade": "8:00-10:00h",
-                        "Sala": "Segunda",
-                        "Prof(a)": "Ter\u00e7a"
+                        "Unidade": "UNID I",
+                        "Sala": "10",
+                        "Prof(a)": "Prof. Eurinardo"
                     }
                 },
                 "Ter\u00e7a": {
                     "15:30-17:30h": {
-                        "Unidade": "8:00-10:00h",
-                        "Sala": "Segunda",
-                        "Prof(a)": "Ter\u00e7a"
+                        "Unidade": "UNID I",
+                        "Sala": "10",
+                        "Prof(a)": "Prof. Eurinardo"
                     }
                 }
             }
@@ -245,16 +245,16 @@
             "week_day": {
                 "Segunda": {
                     "15:30-17:30h": {
-                        "Unidade": "8:00-10:00h",
-                        "Sala": "Segunda",
-                        "Prof(a)": "Ter\u00e7a"
+                        "Unidade": "UNID I",
+                        "Sala": "10",
+                        "Prof(a)": "Prof. Marcos Vinícius"
                     }
                 },
                 "Quarta": {
                     "15:30-17:30h": {
-                        "Unidade": "8:00-10:00h",
-                        "Sala": "Segunda",
-                        "Prof(a)": "Ter\u00e7a"
+                        "Unidade": "UNID I",
+                        "Sala": "10",
+                        "Prof(a)": "Prof. Marcos Vinícius"
                     }
                 }
             }
@@ -264,16 +264,16 @@
             "week_day": {
                 "Segunda": {
                     "8:00-10:00h": {
-                        "Unidade": "8:00-10:00h",
-                        "Sala": "Segunda",
-                        "Prof(a)": "Ter\u00e7a"
+                        "Unidade": "UNID II",
+                        "Sala": "1",
+                        "Prof(a)": "Profa. Elanne"
                     }
                 },
                 "Quarta": {
                     "8:00-10:00h": {
-                        "Unidade": "8:00-10:00h",
-                        "Sala": "Segunda",
-                        "Prof(a)": "Ter\u00e7a"
+                        "Unidade": "UNID II",
+                        "Sala": "1",
+                        "Prof(a)": "Profa. Elanne"
                     }
                 }
             }
@@ -283,16 +283,16 @@
             "week_day": {
                 "Quinta": {
                     "8:00-10:00h": {
-                        "Unidade": "8:00-10:00h",
-                        "Sala": "Segunda",
-                        "Prof(a)": "Ter\u00e7a"
+                        "Unidade": "UNID II",
+                        "Sala": "1",
+                        "Prof(a)": "Prof. Eurinardo"
                     }
                 },
                 "Quarta": {
                     "15:30-17:30h": {
-                        "Unidade": "8:00-10:00h",
-                        "Sala": "Segunda",
-                        "Prof(a)": "Ter\u00e7a"
+                        "Unidade": "UNID II",
+                        "Sala": "1",
+                        "Prof(a)": "Prof. Eurinardo"
                     }
                 }
             }
@@ -302,16 +302,16 @@
             "week_day": {
                 "Segunda": {
                     "10:00-12:00h": {
-                        "Unidade": "8:00-10:00h",
-                        "Sala": "Segunda",
-                        "Prof(a)": "Ter\u00e7a"
+                        "Unidade": "UNID II | UNID I",
+                        "Sala": "1 | LAB. INF. I",
+                        "Prof(a)": "Profa. Marília"
                     }
                 },
                 "Quarta": {
                     "10:00-12:00h": {
-                        "Unidade": "8:00-10:00h",
-                        "Sala": "Segunda",
-                        "Prof(a)": "Ter\u00e7a"
+                        "Unidade": "UNID II",
+                        "Sala": "1",
+                        "Prof(a)": "Profa. Marília"
                     }
                 }
             }
@@ -321,16 +321,16 @@
             "week_day": {
                 "Quinta": {
                     "10:00-12:00h": {
-                        "Unidade": "8:00-10:00h",
-                        "Sala": "Segunda",
-                        "Prof(a)": "Ter\u00e7a"
+                        "Unidade": "UNID II",
+                        "Sala": "1",
+                        "Prof(a)": "Prof. Eurinardo"
                     }
                 },
                 "Ter\u00e7a": {
                     "13:30-15:30h": {
-                        "Unidade": "8:00-10:00h",
-                        "Sala": "Segunda",
-                        "Prof(a)": "Ter\u00e7a"
+                        "Unidade": "UNID II | UNID I",
+                        "Sala": "1 | LAB. INF. III",
+                        "Prof(a)": "Prof. Eurinardo"
                     }
                 }
             }
@@ -641,6 +641,82 @@
         }
     ],
     "ES": [
+        {
+            "name_course": "\u00c1lgebra Linear",
+            "week_day": {
+                "Segunda": {
+                    "15:30-17:30h": {
+                        "Unidade": "UNID II",
+                        "Sala": "7",
+                        "Prof(a)": "Prof. Anderson Feitoza"
+                    }
+                },
+                "Ter\u00e7a": {
+                    "15:30-17:30h": {
+                        "Unidade": "UNID II",
+                        "Sala": "7",
+                        "Prof(a)": "Prof. Anderson Feitoza"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Linguagens de Programa\u00e7\u00e3o",
+            "week_day": {
+                "Ter\u00e7a": {
+                    "8:00-10:00h": {
+                        "Unidade": "UNID I",
+                        "Sala": "10",
+                        "Prof(a)": "Profa. Elanne"
+                    }
+                },
+                "Quinta": {
+                    "8:00-10:00h": {
+                        "Unidade": "UNID I",
+                        "Sala": "10",
+                        "Prof(a)": "Profa. Elanne"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Projeto e An\u00e1lise de Algoritmos",
+            "week_day": {
+                "Quinta": {
+                    "8:00-10:00h": {
+                        "Unidade": "UNID II",
+                        "Sala": "1",
+                        "Prof(a)": "Prof. Eurinardo"
+                    }
+                },
+                "Quarta": {
+                    "15:30-17:30h": {
+                        "Unidade": "UNID II",
+                        "Sala": "1",
+                        "Prof(a)": "Prof. Eurinardo"
+                    }
+                }
+            }
+        },
+        {
+            "name_course": "Fundamentos de Banco de Dados",
+            "week_day": {
+                "Segunda": {
+                    "10:00-12:00h": {
+                        "Unidade": "UNID II | UNID I",
+                        "Sala": "1 | LAB. INF. I",
+                        "Prof(a)": "Profa. Marília"
+                    }
+                },
+                "Quarta": {
+                    "10:00-12:00h": {
+                        "Unidade": "UNID II",
+                        "Sala": "1",
+                        "Prof(a)": "Profa. Marília"
+                    }
+                }
+            }
+        },
         {
             "name_course": "Manuten\u00e7\u00e3o de Software ",
             "week_day": {

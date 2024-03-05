@@ -115,6 +115,7 @@ fetch(DATA_JSON_URL)
         elementCreator.addToContainer(['buttons-course', 'courses', 'week', 'schedule', 'info'])
 
         Renderer.renderButtons(data)
+        document.querySelector('#buttons-course > button:nth-child(1)').click()
     })
 
     .catch(error => {

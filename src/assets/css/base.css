@@ -1,7 +1,30 @@
 body {
     font-family: 'Arial', sans-serif;
+
     background-color: var(--color-bg);
     color: var(--color-text-black);
+    scrollbar-color: var(--color-main);
+}
+
+header {
+    background-color: var(--color-main);
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    padding: 15px;
+    margin-bottom: 5px;
+}
+
+header img {
+    max-width: 150px;
+    height: auto;
+}
+
+a,
+header h1 {
+    color: var(--color-text-white);
 }
 
 main {
@@ -78,4 +101,16 @@ button {
     color: var(--color-text-black);
     line-height: 1.6;
     margin-bottom: 15px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+
+    background-color: var(--color-text-black);
+    color: var(--color-text-white);
+}
+
+footer a {
+    color: var(--color-main);
 }
