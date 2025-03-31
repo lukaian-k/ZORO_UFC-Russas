@@ -1,0 +1,2376 @@
+{
+    "salas": [
+        {
+            "nome": "SALA 1",
+            "unidade": "UNID I",
+            "horarios": {
+                "Segunda": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "CC1 Matemática Básica (Prof. Neves)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    }
+                ],
+                "Terça": [
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "CC1 Fundamentos de Programação"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "13:30-15:30h",
+                        "aula": "CC1 Introdução à Ciência da Computação"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "CC1 Ética Profissional (Profa. Josemeire)"
+                    }
+                ],
+                "Quarta": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "CC1 Matemática Básica (Prof. Neves)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "CC1/ES8 Pré-Cálculo (Prof. Anderson Magno)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    }
+                ],
+                "Quinta": [
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "CC1 Fundamentos de Programação"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "13:30-15:30h",
+                        "aula": "CC1 Introdução à Ciência da Computação"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "CC1 Ética Profissional (Profa. Josemeire)"
+                    }
+                ],
+                "Sexta": [
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    }
+                ]
+            }
+        },
+        {
+            "nome": "SALA 2",
+            "unidade": "UNID I",
+            "horarios": {
+                "Segunda": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "ES1 Matemática Básica (Prof. Anderson Magno)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "ES1 Fundamentos de Programação (Prof. Markos)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    }
+                ],
+                "Terça": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "ES1 Introdução à Engenharia de Software (Profa. Valéria)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "ES1 Ética Profissional (Profa. Josemeire)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    }
+                ],
+                "Quarta": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "ES1 Matemática Básica (Prof. Anderson Magno)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "ES1 Fundamentos de Programação (Prof. Markos)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    }
+                ],
+                "Quinta": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "ES1 Introdução à Engenharia de Software (Profa. Valéria)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "ES1 Ética Profissional (Profa. Josemeire)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    }
+                ],
+                "Sexta": [
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    }
+                ]
+            }
+        },
+        {
+            "nome": "SALA 3",
+            "unidade": "UNID I",
+            "horarios": {
+                "Segunda": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "EC1 Probabilidade e Estatística (Profa. Nilde)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "EC1 Física Fundamental (Prof. Humberto)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "EC1 Revisão de Matemática (Profa. Nilde)"
+                    }
+                ],
+                "Terça": [
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "EC1 Introdução à Engenharia (Profa. Laís)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "13:30-15:30h",
+                        "aula": "EC1 Revisão de Física (Prof. Neves)"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "EC1 Cálculo Fundamental (Prof. Luiz)"
+                    }
+                ],
+                "Quarta": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "EC1 Álgebra Linear (Profa. Nilde)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "EC1 Física Fundamental (Prof. Humberto)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "EC1 Química Geral (Prof. Sérgio)"
+                    }
+                ],
+                "Quinta": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "EC1 Física Experimental para Engenharia (Prof. Anderson Magno)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "EC1 Química Geral - Lab (Profa. Caroliny)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "13:30-15:30h",
+                        "aula": "EC1 Química Geral - Lab (Profa. Caroliny)"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "EC1 Cálculo Fundamental (Prof. Luiz)"
+                    }
+                ],
+                "Sexta": [
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    }
+                ]
+            }
+        },
+        {
+            "nome": "SALA 4",
+            "unidade": "UNID I",
+            "horarios": {
+                "Segunda": [
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "EP1 Álgebra Linear (Profa. Anderson)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "13:30-15:30h",
+                        "aula": "EP1 Probabilidade e Estatística (Profa. Rosineide)"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "EP1 Cálculo Fundamental (Prof. Luiz)"
+                    }
+                ],
+                "Terça": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "EP1 Física Fundamental (Prof. Neves)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "EP1/EM1 Química Geral - Lab (Prof. Sérgio)"
+                    }
+                ],
+                "Quarta": [
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "EP1 Cálculo Fundamental (Prof. Luiz)"
+                    }
+                ],
+                "Quinta": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "EP1 Física Fundamental (Prof. Neves)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "EP1 Introdução à Engenharia de Produção (Prof. Pedro)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "13:30-15:30h",
+                        "aula": "EP1 Química Geral - Lab (Prof. Sérgio)"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "EP1 Física Experimental para Engenharia (Prof. Anderson Magno)"
+                    }
+                ],
+                "Sexta": [
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "13:30-15:30h",
+                        "aula": "EP5 Revisão de Matemática (Profa. Julianne)"
+                    }
+                ]
+            }
+        },
+        {
+            "nome": "SALA 5",
+            "unidade": "UNID I",
+            "horarios": {
+                "Segunda": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "EM1 Física Fundamental (Prof. Humberto)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "EM1 Revisão de Física (Prof. Neves)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "13:30-15:30h",
+                        "aula": "EM1 Álgebra Linear (Profa. Nilde)"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "EM1 Probabilidade e Estatística (Profa. Rosineide)"
+                    }
+                ],
+                "Terça": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "EM1 Cálculo Fundamental (Prof. Luiz)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "EM1 Química para Engenharia (Prof. Sérgio)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "13:30-15:30h",
+                        "aula": "EM1 Física Experimental para Engenharia (Prof. Anderson Magno)"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "EM1 Química Geral - Lab (Prof. Sérgio)"
+                    }
+                ],
+                "Quarta": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "EM1 Física Fundamental (Prof. Humberto)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "EM1 Introdução à Engenharia Mecânica (Prof. Edvan)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "EM1 Revisão de Matemática (Profa. Julianne)"
+                    }
+                ],
+                "Quinta": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "EM1 Cálculo Fundamental (Prof. Luiz)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "EM1 Química Geral - Lab (Prof. Sérgio)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    }
+                ],
+                "Sexta": [
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "13:30-15:30h",
+                        "aula": "EM1 Orientação para Engenharia Mecânica (Prof. Camilo)"
+                    }
+                ]
+            }
+        },
+        {
+            "nome": "SALA 6",
+            "unidade": "UNID I",
+            "horarios": {
+                "Segunda": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "CC2 Estruturas de Dados (Profa. Tatiane)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "CC2 Matemática Discreta (Prof. Gleison)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    }
+                ],
+                "Terça": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "ES8/CC/EP Empreendedorismo (Prof. Dmontier)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "CC2 Arquitetura de Computadores (Prof. Reuber)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "13:30-15:30h",
+                        "aula": "CC2/ES7 Cálculo Diferencial e Integral I (Prof. Ant. Márcio)"
+                    }
+                ],
+                "Quarta": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "CC2 Estruturas de Dados (Profa. Tatiane)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "CC2 Matemática Discreta (Prof. Gleison)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    }
+                ],
+                "Quinta": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "ES8/CC/EP Empreendedorismo (Prof. Dmontier)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "CC2 Arquitetura de Computadores (Prof. Reuber)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "13:30-15:30h",
+                        "aula": "CC2/ES7 Cálculo Diferencial e Integral I (Prof. Ant. Márcio)"
+                    }
+                ],
+                "Sexta": [
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "13:30-15:30h",
+                        "aula": "EM1 Orientação para Engenharia Mecânica (Prof. Gutembergy)"
+                    }
+                ]
+            }
+        },
+        {
+            "nome": "SALA 7",
+            "unidade": "UNID I",
+            "horarios": {
+                "Segunda": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "ES2 Introdução a Processos e Requisitos de Software (Profa. Valéria)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "ES2 Estruturas de Dados (Profa. Tatiane)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    }
+                ],
+                "Terça": [
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "ES3 Álgebra Linear (Prof. Anderson Feitoza)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "13:30-15:30h",
+                        "aula": "ES2 Matemática Discreta (Prof. Gleison)"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "ES2 Arquitetura de Computadores (Prof. Reuber)"
+                    }
+                ],
+                "Quarta": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "ES2 Introdução a Processos e Requisitos de Software (Profa. Valéria)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "ES2 Estruturas de Dados (Profa. Tatiane)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    }
+                ],
+                "Quinta": [
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "ES3 Álgebra Linear (Prof. Anderson Feitoza)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "13:30-15:30h",
+                        "aula": "ES2 Matemática Discreta (Prof. Gleison)"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "ES2 Arquitetura de Computadores (Prof. Reuber)"
+                    }
+                ],
+                "Sexta": [
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    }
+                ]
+            }
+        },
+        {
+            "nome": "SALA 8",
+            "unidade": "UNID I",
+            "horarios": {
+                "Segunda": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "EC3 Materiais de Construção Civil I (Profa. Laís)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "CC/ES - Extra Lógica para Computação"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    }
+                ],
+                "Terça": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "EC3/EP3/EM3 Matemática Aplicada (Prof. Gastão)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "EC3 Cálculo Vetorial Aplicado (Profa. Gastão)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "13:30-15:30h",
+                        "aula": "EC3 Geologia Aplicada à Engenharia"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "EC3 Eletromagnetismo (Prof. Antônio Márcio)"
+                    }
+                ],
+                "Quarta": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "EC3 Materiais de Construção Civil I (Profa. Laís)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "CC/ES - Extra Lógica para Computação"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "13:30-15:30h",
+                        "aula": "EC3 Mecânica I (Prof. Lindberg) 13:00-16:00h"
+                    }
+                ],
+                "Quinta": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "EC3/EP3/EM3 Matemática Aplicada (Prof. Gastão)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "EC3 Cálculo Vetorial Aplicado (Profa. Gastão)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "13:30-15:30h",
+                        "aula": "EC3 Geologia Aplicada à Engenharia"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "EC3 Eletromagnetismo (Prof. Antônio Márcio)"
+                    }
+                ],
+                "Sexta": [
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    }
+                ]
+            }
+        },
+        {
+            "nome": "SALA 10",
+            "unidade": "UNID I",
+            "horarios": {
+                "Segunda": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "CC3 Algoritmos em Grafos (Prof. Eurinardo)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "CC3 Álgebra Linear (Prof. Anderson Feitoza)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "CC3 Programação Orientada a Objetos (Prof. Marcos Vinícius)"
+                    }
+                ],
+                "Terça": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "CC3/ES3 Linguagens de Programação (Profa. Rafael)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "CC3 Probabilidade e Estatística (Profa. Rosineide)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "13:30-15:30h",
+                        "aula": "CC7/ES6 Empreendedorismo (Prof. Josemeire)"
+                    }
+                ],
+                "Quarta": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "CC3 Algoritmos em Grafos (Prof. Eurinardo)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "CC3 Álgebra Linear (Prof. Anderson Feitoza)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "CC3 Programação Orientada a Objetos (Prof. Marcos Vinícius)"
+                    }
+                ],
+                "Quinta": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "CC3/ES3 Linguagens de Programação (Profa. Rafael)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "CC3 Probabilidade e Estatística (Profa. Rosineide)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "13:30-15:30h",
+                        "aula": "CC7/ES6 Empreendedorismo (Prof. Josemeire)"
+                    }
+                ],
+                "Sexta": [
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    }
+                ]
+            }
+        },
+        {
+            "nome": "SALA AUX I",
+            "unidade": "UNID I",
+            "horarios": {
+                "Segunda": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "EC5 Projeto e Construção de Edifícios I (Profa. Mylene)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "EC5 Mecânica dos Fluidos (Prof. Camilo)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "13:30-15:30h",
+                        "aula": "EC5 Geoprocessamento (Prof. Iago) 13:30-16:30"
+                    }
+                ],
+                "Terça": [
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "EC5 Fundamentos da Economia e Administração (Prof. Luke)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "13:30-15:30h",
+                        "aula": "EC5 Mecânica dos Solos I (Profa. Daniela)"
+                    }
+                ],
+                "Quarta": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "EC5 Projeto e Construção de Edifícios I (Profa. Mylene)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "EC5 Mecânica dos Fluidos (Prof. Camilo)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    }
+                ],
+                "Quinta": [
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "EC5 Fundamentos da Economia e Administração (Prof. Luke)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "13:30-15:30h",
+                        "aula": "EC5 Mecânica dos Solos I (Profa. Daniela)"
+                    }
+                ],
+                "Sexta": [
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    }
+                ]
+            }
+        },
+        {
+            "nome": "SALA AUX II",
+            "unidade": "UNID I",
+            "horarios": {
+                "Segunda": [
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "EM5 Mecânica dos Fluidos (Prof. Camilo)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "EM5 Transmissão de Calor (Profa. Sílvia)"
+                    }
+                ],
+                "Terça": [
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "EM5 Materiais Metálicos para Engenharia (Prof. Edvan)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "13:30-15:30h",
+                        "aula": "EM5 Fundamentos da Economia e da Administração (Prof. Luke)"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "EM5/EP5/EC5 Resistência dos Materiais I"
+                    }
+                ],
+                "Quarta": [
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "EM5 Mecânica dos Fluidos (Prof. Camilo)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "EM5 Transmissão de Calor (Profa. Sílvia)"
+                    }
+                ],
+                "Quinta": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "EM5 Mecânica II (Prof. Gutembergy)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "EM5 Materiais Metálicos para Engenharia (Prof. Edvan)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "13:30-15:30h",
+                        "aula": "EM5 Fundamentos da Economia e da Administração (Prof. Luke)"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "EM5/EP5/EC5 Resistência dos Materiais I"
+                    }
+                ],
+                "Sexta": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "EM5 Mecânica II (Prof. Gutembergy)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "13:30-15:30h",
+                        "aula": "EM1 Orientação para Engenharia Mecânica (Prof. Edvan)"
+                    }
+                ]
+            }
+        },
+        {
+            "nome": "SALA AUX III",
+            "unidade": "UNID I",
+            "horarios": {
+                "Segunda": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "EP3/EM3 Cálculo Vetorial Aplicado (Profa. Gleison)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "EC3/EP3/EM3 Matemática Aplicada (Prof. Gastão)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "EC3/EP3/EM3 Cálculo Numérico (Prof. Markos)"
+                    }
+                ],
+                "Terça": [
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "EP3/EM3 Eletromagnetismo (Prof. Antônio Márcio)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "13:30-15:30h",
+                        "aula": "EP3/EM3 Ciência dos Materiais (Prof. Edvan)"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "EP3 Fundamentos da Economia e da Administração (Prof. Luke)"
+                    }
+                ],
+                "Quarta": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "EP3/EM3 Cálculo Vetorial Aplicado (Profa. Gleison)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "EC3/EP3/EM3 Matemática Aplicada (Prof. Gastão)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "EC3/EP3/EM3 Cálculo Numérico (Prof. Markos)"
+                    }
+                ],
+                "Quinta": [
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "EP3/EM3 Eletromagnetismo (Prof. Antônio Márcio)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "13:30-15:30h",
+                        "aula": "EP3 Ciência dos Materiais (Prof. Edvan)"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "EP3 Fundamentos da Economia e da Administração (Prof. Luke)"
+                    }
+                ],
+                "Sexta": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "EP3/EM3 Mecânica I 8:00-11:00"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "13:30-15:30h",
+                        "aula": "EM1 Orientação para Engenharia Mecânica (Prof. Ramon)"
+                    }
+                ]
+            }
+        },
+        {
+            "nome": "SALA 1",
+            "unidade": "UNID II",
+            "horarios": {
+                "Segunda": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "CC4 Fundamentos de Banco de Dados (Prof. Hugo)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "CC4 Estruturas de Dados Avançadas (Prof. Eurinardo)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "13:30-15:30h",
+                        "aula": "CC7/ES7 Projeto de Pesquisa Cientí. e Tecnológ (Prof. Hugo)"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "CC4/ES4 Projeto e Análise de Algoritmos (Prof. Eurinardo)"
+                    }
+                ],
+                "Terça": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "CC7 Teoria da Computação (Prof. Cenez)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "CC7 Compiladores (Prof. Cenez)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "13:30-15:30h",
+                        "aula": "CC4/ES8 Engenharia de Software (Profa.Valéria)"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "CC4 Lógica para Computação (Prof. Alexandre Arruda)"
+                    }
+                ],
+                "Quarta": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "CC4 Fundamentos de Banco de Dados (Prof. Hugo)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "CC4 Estruturas de Dados Avançadas (Prof. Eurinardo)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "CC4/ES4 Projeto e Análise de Algoritmos (Prof. Eurinardo)"
+                    }
+                ],
+                "Quinta": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "CC7 Teoria da Computação (Prof. Cenez)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "CC7 Compiladores (Prof. Cenez)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "13:30-15:30h",
+                        "aula": "CC4/ES8 Engenharia de Software (Profa.Valéria)"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "CC4 Lógica para Computação (Prof. Alexandre Arruda)"
+                    }
+                ],
+                "Sexta": [
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "13:30-15:30h",
+                        "aula": "EM1 Orientação para Engenharia Mecânica (Prof. George)"
+                    }
+                ]
+            }
+        },
+        {
+            "nome": "SALA 2",
+            "unidade": "UNID II",
+            "horarios": {
+                "Segunda": [
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "ES4/CC5 Análise e Projetos de Sistemas (Prof. Marcos Vinicius)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    }
+                ],
+                "Terça": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "CC6/ES7 Sistemas Distribuídos (Prof. Pitágoras)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "ES4 Fundamentos de Banco de Dados (Prof. Pitágoras)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "13:30-15:30h",
+                        "aula": "ES4 Lógica para Computação (Prof. Alexandre Arruda)"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "ES4 Processos de Software (Profa. Patrícia)"
+                    }
+                ],
+                "Quarta": [
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "ES4/CC5 Análise e Projetos de Sistemas (Prof. Marcos Vinicius)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    }
+                ],
+                "Quinta": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "CC6/ES7 Sistemas Distribuídos (Prof. Pitágoras)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "ES4 Fundamentos de Banco de Dados (Prof. Pitágoras)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "13:30-15:30h",
+                        "aula": "ES4 Lógica para Computação (Prof. Alexandre Arruda)"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "ES4 Processos de Software (Profa. Patrícia)"
+                    }
+                ],
+                "Sexta": [
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    }
+                ]
+            }
+        },
+        {
+            "nome": "SALA 3",
+            "unidade": "UNID II",
+            "horarios": {
+                "Segunda": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "CC/ES - Extra Fundamentos de Programação (Prof. Markos)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "CC/ES - Extra Experimentação em Software (Prof. Anna Beatriz)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    }
+                ],
+                "Terça": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "CC/ES - Extra Projeto e Análise de Algoritmos"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "ES6 Qualidade de Software (Prof. Anna Beatriz)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    }
+                ],
+                "Quarta": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "CC/ES - Extra Fundamentos de Programação (Prof. Markos)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "CC/ES - Extra Experimentação em Software (Prof. Anna Beatriz)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    }
+                ],
+                "Quinta": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "CC/ES - Extra Projeto e Análise de Algoritmos"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "ES6 Qualidade de Software (Prof. Anna Beatriz)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    }
+                ],
+                "Sexta": [
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    }
+                ]
+            }
+        },
+        {
+            "nome": "SALA 4",
+            "unidade": "UNID II",
+            "horarios": {
+                "Segunda": [
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "EP Tópicos Especiais em Engenharia de Produção I (Profa. Hevilla)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "13:30-15:30h",
+                        "aula": "EP9 Engenharia Econômica (Profa. Hevilla) 13:30 - 16:30"
+                    }
+                ],
+                "Terça": [
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "EP5/EM9 Gestão de Custos (Profa. Hevilla)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "13:30-15:30h",
+                        "aula": "EP5 Introdução à Pesquisa Operacional (Prof. Dmontier)"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "EP Tópicos Especiais em Engenharia de Produção II"
+                    }
+                ],
+                "Quarta": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "EP5 Administração Mercadológica"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "EP5 Gestão de Qualidade"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    }
+                ],
+                "Quinta": [
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "EP5/EM9 Gestão de Custos (Profa. Hevilla)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "13:30-15:30h",
+                        "aula": "EP5 Introdução à Pesquisa Operacional (Prof. Dmontier)"
+                    }
+                ],
+                "Sexta": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "EM9 Ética e Legislação (Profa. Caroliny)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "EP5 Gestão de Qualidade"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    }
+                ]
+            }
+        },
+        {
+            "nome": "SALA 5",
+            "unidade": "UNID II",
+            "horarios": {
+                "Segunda": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "Programa de Pós-Graduação em Engenharia Civil - PPGEC"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "Programa de Pós-Graduação em Engenharia Civil - PPGEC"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "13:30-15:30h",
+                        "aula": "Programa de Pós-Graduação em Engenharia Civil - PPGEC"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "Programa de Pós-Graduação em Engenharia Civil - PPGEC"
+                    }
+                ],
+                "Terça": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "EC7 Gerenciamento na Construção Civil I (Profa. Mylene) 8:00-11:00"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "13:30-15:30h",
+                        "aula": "EC7 Estruturas de Concreto I (Prof. Jerfson) 13:30-16:30"
+                    }
+                ],
+                "Quarta": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "EC7 Higiene Industrial e Segurança do Trabalho 8:00-11:00"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "EC7 Hidrologia (Profa. Daniela)"
+                    }
+                ],
+                "Quinta": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "EC7 Projeto e Construção da Infra Estrutura Viária (Prof. Iago) 8:00-11:00"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "13:30-15:30h",
+                        "aula": "EC7 Análise de Estruturas I (Prof. Jerfson) 13:30-16:30"
+                    }
+                ],
+                "Sexta": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "EC7 Saneamento I (Profa. Daniela) 8:00-11:00"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "13:30-15:30h",
+                        "aula": "EC7 Hidrologia (Profa. Daniela)"
+                    }
+                ]
+            }
+        },
+        {
+            "nome": "SALA 6",
+            "unidade": "UNID II",
+            "horarios": {
+                "Segunda": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "ES3 Programação Orientada a Objetos (Prof. Marcos Vinícius)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "ES3 Algoritmos em Grafos (Prof. Pablo Soares)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "CC5 Computação Gráfica (Prof. Rafael Ivo)"
+                    }
+                ],
+                "Terça": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "ES3 Probabilidade e Estatística (Profa. Nilde)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "ES3 Linguagens de Programação (Prof. Rafael)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "13:30-15:30h",
+                        "aula": "ES3 Requisitos de Software (Profa. Patrícia)"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "CC5 Redes de Computadores (Prof. Pitágoras)"
+                    }
+                ],
+                "Quarta": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "ES3 Programação Orientada a Objetos (Prof. Marcos Vinícius)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "ES3 Algoritmos em Grafos (Prof. Pablo Soares)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "CC5 Computação Gráfica (Prof. Rafael Ivo)"
+                    }
+                ],
+                "Quinta": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "ES3 Probabilidade e Estatística (Profa. Nilde)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "ES3 Linguagens de Programação (Prof. Rafael)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "13:30-15:30h",
+                        "aula": "ES3 Requisitos de Software (Profa. Patrícia)"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "CC5 Redes de Computadores (Prof. Pitágoras)"
+                    }
+                ],
+                "Sexta": [
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    }
+                ]
+            }
+        },
+        {
+            "nome": "SALA 7",
+            "unidade": "UNID II",
+            "horarios": {
+                "Segunda": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "ES5 Redes de Computadores (Prof. Pitágoras)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "ES5 Gerência de Projetos de Software"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "ES6 Manutenção de Software (Profa. Jacilane)"
+                    }
+                ],
+                "Terça": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "ES5 Projeto Detalhado de Software (Profa. Jacilane)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "CC5/ES5 Interação Humano-Computador (Profa. Patrícia)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "13:30-15:30h",
+                        "aula": "CC5 Sistemas Operacionais (Prof. Hugo)"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "ES5 Sistemas Operacionais (Prof. Hugo)"
+                    }
+                ],
+                "Quarta": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "ES5 Redes de Computadores (Prof. Pitágoras)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "ES5 Gerência de Projetos de Software"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "ES6 Manutenção de Software (Profa. Jacilane)"
+                    }
+                ],
+                "Quinta": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "ES5 Projeto Detalhado de Software (Profa. Jacilane)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "CC5/ES5 Interação Humano-Computador (Profa. Patrícia)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "13:30-15:30h",
+                        "aula": "CC5 Sistemas Operacionais (Prof. Hugo)"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "ES5 Sistemas Operacionais (Prof. Hugo)"
+                    }
+                ],
+                "Sexta": [
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    }
+                ]
+            }
+        },
+        {
+            "nome": "SALA 8",
+            "unidade": "UNID II",
+            "horarios": {
+                "Segunda": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "ES6 Verificação e Validação (Prof. Jacilane)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "CC6/ES7 Desenvolvimento de Software para Web (Profa. Valéria)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "CC6/ES7 Matemática Computacional (Profa. Tatiane)"
+                    }
+                ],
+                "Terça": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "CC6 Sistemas Distribuídos (Prof. Pitágoras)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "CC6/ES8 Inteligência Artificial (Prof. Alexandre)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "13:30-15:30h",
+                        "aula": "CC6 Linguagens Formais e Autômatos (Prof. Cenez)"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "ES6 Arquitetura de Software (Prof. Anna Beatriz)"
+                    }
+                ],
+                "Quarta": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "ES6 Verificação e Validação (Prof. Jacilane)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "CC6/ES7 Desenvolvimento de Software para Web (Profa. Valéria)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "CC6/ES7 Matemática Computacional (Profa. Tatiane)"
+                    }
+                ],
+                "Quinta": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "CC6 Sistemas Distribuídos (Prof. Pitágoras)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "CC6/ES8 Inteligência Artificial (Prof. Alexandre)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "13:30-15:30h",
+                        "aula": "CC6 Linguagens Formais e Autômatos (Prof. Cenez)"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "ES6 Arquitetura de Software (Prof. Anna Beatriz)"
+                    }
+                ],
+                "Sexta": [
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    }
+                ]
+            }
+        },
+        {
+            "nome": "SALA AUX I",
+            "unidade": "UNID II",
+            "horarios": {
+                "Segunda": [
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "EM7 Refrigeração e Condicionamento do Ar (Profa. Sílvia)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "EP Logística Reversa"
+                    }
+                ],
+                "Terça": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "EM7 Elementos de Máquinas I (Prof. Ramon)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "EM7 Proc. de Conformação Plástica (Prof. George)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "13:30-15:30h",
+                        "aula": "EM7 Transportadores Industriais (Prof. Ramon)"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "EM7 Vibrações (Prof. Gutembergy)"
+                    }
+                ],
+                "Quarta": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "EM7 Dinâmica das Máquinas (Prof. Gutembergy)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "EM7 Refrigeração e Condicionamento do Ar (Profa. Sílvia)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    }
+                ],
+                "Quinta": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "EM7 Elementos de Máquinas I (Prof. Ramon)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "EM7 Proc. de Conformação Plástica (Prof. George)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "13:30-15:30h",
+                        "aula": "EM7 Transportadores Industriais (Prof. Ramon)"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "EM7 Vibrações (Prof. Gutembergy)"
+                    }
+                ],
+                "Sexta": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "EM7 Dinâmica das Máquinas (Prof. Gutembergy)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "EM7 Tóp. Esp. em Eng. Mecânica I (Prof. Caroliny)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "13:30-15:30h",
+                        "aula": "EM7 Higiene Industrial e Segurança do Trabalho (Profa. Caroliny)"
+                    }
+                ]
+            }
+        },
+        {
+            "nome": "SALA AUX II",
+            "unidade": "UNID II",
+            "horarios": {
+                "Segunda": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "EC9 Pontes I (Prof.Iago) 8:00-11:00"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "13:30-15:30h",
+                        "aula": "EC9 Patologia e Recuperação de Estruturas de Concreto 13:30-16:30"
+                    }
+                ],
+                "Terça": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "Programa de Pós-Graduação em Engenharia Civil - PPGEC"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "Programa de Pós-Graduação em Engenharia Civil - PPGEC"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    }
+                ],
+                "Quarta": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "EC9 Projeto Estrutural de Edifícios de Concreto (Prof. Jerfson) 8:00-11:00"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "13:30-15:30h",
+                        "aula": "EC9/EM7/EP9 Engenharia Econômica 14:30-17:30"
+                    }
+                ],
+                "Quinta": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "EC9 Inst. Elét. Prediais 8:00-11:00"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "EC9 Ética e Legislação (Profa. Caroliny)"
+                    }
+                ],
+                "Sexta": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "EC9 Barragens (Prof.Iago) 8:00-11:00"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    }
+                ]
+            }
+        },
+        {
+            "nome": "SALA AUX III",
+            "unidade": "UNID II",
+            "horarios": {
+                "Segunda": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "EP7 Máquinas Térmicas (Prof. Camilo)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "13:30-15:30h",
+                        "aula": "EP7 Ética e Legislação"
+                    }
+                ],
+                "Terça": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "EP7 Métodos Quantitativos em Logística"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "EP7 Planejamento e Controle da Produção II"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "EP7 Sistema de Informação Gerencial (Prof. Dmontier)"
+                    }
+                ],
+                "Quarta": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "EP7 Máquinas Térmicas (Prof. Camilo)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "EP-EXT Metodologia Científica (Profa. Hevilla)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "EP7 Gerência de Manutenção"
+                    }
+                ],
+                "Quinta": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "EP7 Métodos Quantitativos em Logística"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "EP7 Planejamento e Controle da Produção II"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "EP7 Sistema de Informação Gerencial (Prof. Dmontier)"
+                    }
+                ],
+                "Sexta": [
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "EP7 Gerência de Manutenção"
+                    }
+                ]
+            }
+        },
+        {
+            "nome": "SALA MET. ATIVAS",
+            "unidade": "UNID II",
+            "horarios": {
+                "Segunda": [
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    }
+                ],
+                "Terça": [
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "13:30-15:30h",
+                        "aula": "EC9 Instalações Hidráulicas e Sant. Prediais (Profa. Laís) 13:30-16:30"
+                    }
+                ],
+                "Quarta": [
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    }
+                ],
+                "Quinta": [
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    }
+                ],
+                "Sexta": [
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    }
+                ]
+            }
+        },
+        {
+            "nome": "LAB DESENHO I",
+            "unidade": "UNID I",
+            "horarios": {
+                "Segunda": [
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "13:30-15:30h",
+                        "aula": "EC1 Desenho para Engenharia (Profa. Laís)"
+                    }
+                ],
+                "Terça": [
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    }
+                ],
+                "Quarta": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "EP1/EM1 Desenho para Engenharia - Turma 1 (Profa. Julianne)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "EP1/EM1 Desenho para Engenharia - Turma 1 (Profa. Julianne)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    }
+                ],
+                "Quinta": [
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "13:30-15:30h",
+                        "aula": "EP1/EM1 Desenho para Engenharia - Turma 3 (Profa. Julianne)"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "EP1/EM1 Desenho para Engenharia - Turma 3 (Profa. Julianne)"
+                    }
+                ],
+                "Sexta": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "EP1/EM1 Desenho para Engenharia - Turma 2 (Profa. Julianne)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "EP1/EM1 Desenho para Engenharia - Turma 2 (Profa. Julianne)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    }
+                ]
+            }
+        },
+        {
+            "nome": "LAB DESENHO II",
+            "unidade": "UNID I",
+            "horarios": {
+                "Segunda": [
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    }
+                ],
+                "Terça": [
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "EM3 Desenho de Máquinas e Instalações (Prof. Pedro)"
+                    }
+                ],
+                "Quarta": [
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    }
+                ],
+                "Quinta": [
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "EM3 Desenho de Máquinas e Instalações (Prof. Pedro)"
+                    }
+                ],
+                "Sexta": [
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    }
+                ]
+            }
+        },
+        {
+            "nome": "LAB. INF. I",
+            "unidade": "UNID I",
+            "horarios": {
+                "Segunda": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "CC4 Fundamentos de Banco de Dados (Prof. Hugo)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "CC6/ES7 Desenvolvimento de Software para Web (Profa. Valéria)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    }
+                ],
+                "Terça": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "CC6/ES7 Sistemas Distribuídos (Prof. Pitágoras)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "CC5/ES5 Interação Humano-Computador (Profa. Patrícia)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "CC2 Laboratório de Programação"
+                    }
+                ],
+                "Quarta": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "ES3 Programação Orientada a Objetos (Prof. Marcos Vinícius)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "CC6/ES7 Desenvolvimento de Software para Web (Profa. Valéria)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "CC3 Programação Orientada a Objetos (Prof. Marcos Vinícius)"
+                    }
+                ],
+                "Quinta": [
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "CC1 Fundamentos de Programação"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "CC2 Laboratório de Programação"
+                    }
+                ],
+                "Sexta": [
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    }
+                ]
+            }
+        },
+        {
+            "nome": "LAB. INF. II",
+            "unidade": "UNID I",
+            "horarios": {
+                "Segunda": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "CC/ES - Extra Fundamentos de Programação (Prof. Markos)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "ES1 Fundamentos de Programação (Prof. Markos)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "13:30-15:30h",
+                        "aula": "EC1 Desenho para Engenharia (Profa. Laís)"
+                    }
+                ],
+                "Terça": [
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "ES2 Laboratório de Programação (Prof. Hugo)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "ES5 Sistemas Operacionais (Prof. Hugo)"
+                    }
+                ],
+                "Quarta": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "CC2 Estruturas de Dados (Profa. Tatiane)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "ES2 Estruturas de Dados (Profa. Tatiane)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "CC6/ES7 Matemática Computacional (Profa. Tatiane)"
+                    }
+                ],
+                "Quinta": [
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "ES2 Laboratório de Programação (Prof. Hugo)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "13:30-15:30h",
+                        "aula": "EP1/EM1 Desenho para Engenharia - Turma 3 (Profa. Julianne)"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "EP1/EM1 Desenho para Engenharia - Turma 3 (Profa. Julianne)"
+                    }
+                ],
+                "Sexta": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "EP1/EM1 Desenho para Engenharia - Turma 2 (Profa. Julianne)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "EP1/EM1 Desenho para Engenharia - Turma 2 (Profa. Julianne)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    }
+                ]
+            }
+        },
+        {
+            "nome": "LAB. INF. III",
+            "unidade": "UNID I",
+            "horarios": {
+                "Segunda": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "EC1 Probabilidade e Estatística (Profa. Nilde)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "CC4 Estruturas de Dados Avançadas (Prof. Eurinardo)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "13:30-15:30h",
+                        "aula": "EP1 Probabilidade e Estatística (Profa. Rosineide)"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "EM1 Probabilidade e Estatística (Profa. Rosineide)"
+                    }
+                ],
+                "Terça": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "ES3 Probabilidade e Estatística (Profa. Nilde)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "CC3 Probabilidade e Estatística (Profa. Rosineide)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "EM3 Desenho de Máquinas e Instalações (Prof. Pedro)"
+                    }
+                ],
+                "Quarta": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "EP1/EM1 Desenho para Engenharia - Turma 1 (Profa. Julianne)"
+                    },
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "EP1/EM1 Desenho para Engenharia - Turma 1 (Profa. Julianne)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    }
+                ],
+                "Quinta": [
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "ES4 Fundamentos de Banco de Dados (Prof. Pitágoras)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "EM3 Desenho de Máquinas e Instalações (Prof. Pedro)"
+                    }
+                ],
+                "Sexta": [
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    }
+                ]
+            }
+        },
+        {
+            "nome": "LAB. INF. IV",
+            "unidade": "UNID I",
+            "horarios": {
+                "Segunda": [
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "13:30-15:30h",
+                        "aula": "EC5 Geoprocessamento (Prof. Iago) 13:30-16:30"
+                    }
+                ],
+                "Terça": [
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "CC2 Arquitetura de Computadores (Prof. Reuber)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "ES2 Arquitetura de Computadores (Prof. Reuber)"
+                    }
+                ],
+                "Quarta": [
+                    {
+                        "horario": "8:00-10:00h",
+                        "aula": "EC9 Projeto Estrutural de Edifícios de Concreto (Prof. Jerfson) 8:00-11:00"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    }
+                ],
+                "Quinta": [
+                    {
+                        "horario": "10:00-12:00h",
+                        "aula": "CC7 Compiladores (Prof. Cenez)"
+                    },
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    },
+                    {
+                        "horario": "13:30-15:30h",
+                        "aula": "EP5 Introdução à Pesquisa Operacional (Prof. Dmontier)"
+                    },
+                    {
+                        "horario": "15:30-17:30h",
+                        "aula": "EP7 Sistema de Informação Gerencial (Prof. Dmontier)"
+                    }
+                ],
+                "Sexta": [
+                    {
+                        "horario": "12:00-13:30h",
+                        "aula": "Almoço"
+                    }
+                ]
+            }
+        }
+    ]
+}
